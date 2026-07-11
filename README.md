@@ -278,7 +278,7 @@ The purpose of this project is to:
 
 Contributions are welcome!
 
-I felt this repository was more than just a personal repo or referenceable repo and felt it would be a good idea to add a contributions section for a tool that's universal. I'm very active on git-hub so I'd be incredibly happy to accept PR's. 
+I felt this repository was more than just a personal repo or referenceable repo and felt it would be a good idea to add a contributions section for a tool universal. I'm very active on git-hub so I'd be incredibly happy to accept PR's. 
 
 To contribute:
 
