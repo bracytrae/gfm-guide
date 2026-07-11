@@ -276,7 +276,9 @@ The purpose of this project is to:
 
 ## Contributing
 
-Contributions are welcome, I'm very active on git-hub so I'd be able to accept PR's; I only say this because gfm is foundational in git-hub in regard to it's functionality & users.
+Contributions are welcome!
+
+I felt this repository was more than just a personal repo or referenceable repo and felt it would be a good idea to add a contributions section for a tool that's universal. I'm very active on git-hub so I'd be incredibly happy to accept PR's. 
 
 To contribute:
 
