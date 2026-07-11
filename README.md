@@ -4,7 +4,11 @@ A beginner-friendly guide to **GitHub Flavored Markdown**, also known as **GFM**
 
 This repository explains the Markdown syntax commonly used in GitHub README files, issues, pull requests, discussions, and documentation.
 
-## What Is GitHub Flavored Markdown?
+## What's Markdown? 
+
+Markdown is a plain-text mark-up language, similar to html but significantly simpler. It uses simple symbols instead of complex HTML tags to format text, so it's convenient for quickly and effectively creating READMEs and polished text.
+
+## What's GitHub Flavored Markdown?
 
 GitHub Flavored Markdown is GitHub’s version of Markdown. It includes standard Markdown formatting along with additional features such as:
 
